@@ -143,7 +143,7 @@ Netflix-Customer-Churn-Prediction/
 │   ├── training.ipynb
 │   └── churn_prediction.ipynb
 │
-├── models/
+├── model/
 │   └── netflix_churn_final_model.pkl
 │
 ├── README.md
